@@ -1,0 +1,26 @@
+# Dependencias de Node
+node_modules/
+
+# Entornos virtuales de Python
+.venv/
+
+# Variables de entorno locales
+.env
+
+# Cachés de Python
+__pycache__/
+*.py[cod]
+
+# Logs y salidas temporales
+*.log
+php-server.log
+token-server.log
+
+# Archivos del sistema
+.DS_Store
+Thumbs.db
+
+# Archivos de cobertura / configuración local
+coverage/
+*.local
+*.backup
